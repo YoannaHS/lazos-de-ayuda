@@ -27,4 +27,16 @@ Fuente
 
 [INEI - Brechas de género](http://www.inei.gob.pe/estadisticas/indice-tematico/brechas-de-genero-7913/)
 
-## Research 
+## Research
+
+### Edad de las víctimas
+
+* 32% entre 0 y 17 años
+* 62% entre 18 y 59 años
+* 6% mayores de 60 años
+
+### El iceberg de la violencia de género
+
+![](assets/img/iceberg.png)
+
+### El desafío
