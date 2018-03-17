@@ -39,4 +39,22 @@ Fuente
 
 ![](assets/img/iceberg.png)
 
+Fuente [Amnistía Internacional](https://www.amnesty.org/es/)
+
 ### El desafío
+
+En una entrevista con personal del [Ministerio de la Mujer y Poblaciones Vulnerables](https://www.mimp.gob.pe/) así como de la fundación [Manuela Ramos](http://www.manuela.org.pe/) pudimos detectar una gran problemática.
+Existen muchos voluntarios, profesionales dispuestos a ayudar a mujeres víctimas de violencia pero que lamentablemente no tienen el alcance esperado. El estado aún continúa con un sistema burocrático y tradicional y esto origina que los diversos programas y campañas en lucha contra la violencia a la mujer no llegue a cada rincón del país.
+Entonces, **¿Como unir a estos profesionales con las mujeres víctimas de violencia?**
+
+![](assets/img/entrevista.jpeg)
+
+En una encuesta realizada vía online quisimos indagar que opinan las personas respecto a este tema y estos fueron los resultados.
+
+![](assets/img/grafico1.png)
+
+![](assets/img/grafico2.png)
+
+![](assets/img/grafico3.png)
+
+![](assets/img/grafico4.png)
