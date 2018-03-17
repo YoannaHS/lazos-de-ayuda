@@ -58,3 +58,9 @@ En una encuesta realizada vía online quisimos indagar que opinan las personas r
 ![](assets/img/grafico3.png)
 
 ![](assets/img/grafico4.png)
+
+## El Diseño
+
+Por ser un tema tan sensible y que pone en riesgo la integridad de las víctimas. Se decidió por una app camuflada bajo el logo de papelera de reciclaje. Las primeras pantallas se verían de la siguiente manera.
+
+![](assets/img/pantalla1.png)    ![](assets/img/pantalla2.png)
