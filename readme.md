@@ -61,6 +61,26 @@ En una encuesta realizada vía online quisimos indagar que opinan las personas r
 
 ## El Diseño
 
-Por ser un tema tan sensible y que pone en riesgo la integridad de las víctimas. Se decidió por una app camuflada bajo el logo de papelera de reciclaje. Las primeras pantallas se verían de la siguiente manera.
+Por ser un tema tan sensible y que pone en riesgo la integridad de las víctimas. Se decidió por una **app camuflada bajo el ícono de papelera de reciclaje.** Las primeras pantallas se verían de la siguiente manera.
 
 ![](assets/img/pantalla1.png)    ![](assets/img/pantalla2.png)
+
+## Benchmarking
+
+### [SOS Mujer](http://sosmujer.tv/)
+
+Brinda información de los lugares más cercanos donde la mujer puede pedir ayuda, así como tips y ciclos de violencia, autoevaluaciones y procedimientos para denunciar.
+
+### [Libres](http://www.violenciagenero.msssi.gob.es/informacionUtil/recursos/appLibres/home.htm)
+
+Dentro de sus puntos fuertes es una sección dedicada a aportar información y material respectos a los procedimientos de los casos de violencia de género. Tamnbién testimonios así como llamar directamente al 016 (Atiende víctimas de violencia de género).
+
+### [Por mí](http://www.fundacioncermimujeres.es/noticias/ya-puedes-descargarte-la-app-pormi)
+
+Es una herramienta de concienciación, información y denuncia. A través de ella se puede conocer ejemplos de situaciones violentas,lo que te va a permitir reconocerlas más fácilmente.
+
+## Brainstorming
+
+Aún son pocas las aplicaciones que tratan violencia de género o contra la mujer. Sin embargo, las pocas que existen tienen como objetivo común ayudar a las víctimas a detectar situaciones de violencia y mediante testimonios concientizar y animarlas a tomar acción frente a sus agresores. 
+
+![](assets/img/affinitymap.jpg)
