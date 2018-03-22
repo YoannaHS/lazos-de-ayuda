@@ -84,3 +84,38 @@ Es una herramienta de concienciación, información y denuncia. A través de ell
 Aún son pocas las aplicaciones que tratan violencia de género o contra la mujer. Sin embargo, las pocas que existen tienen como objetivo común ayudar a las víctimas a detectar situaciones de violencia y mediante testimonios concientizar y animarlas a tomar acción frente a sus agresores. 
 
 ![](assets/img/affinitymap.jpg)
+
+## Paper prototype
+
+![](assets/img/sketch1.jpeg)
+
+## Prototipo en alta fidelidad 
+
+## [Primer prototipo](https://marvelapp.com/42iea21)
+
+![](assets/img/prototipo1.png)
+
+### Testing
+
+En un primer prototipo en alta fidelidad se obtuvo los siguientes comentarios.
+
+![](assets/img/testing1.png)
+
+## [Prototipo final](https://marvelapp.com/3b2fa33)
+
+![](assets/img/prototipo2.png)
+
+[Prototipo en Figma](https://www.figma.com/proto/DqOnJ2Gj46VeZpVcTLY5hp/Lazos-de-Ayuda-iphone?scaling=contain)
+
+### Testing
+* Me parece buena idea lo del ícono camuflado
+* Es bastante sencilla y fácil de usar
+* Logra crear esa conección inmediata entre la víctima y los profesionales
+* Se podría cambiar un poco los colores, que no sea tan femenina por si llega en ese momento su agresor
+* Me gustaría que se vea la foto del profesional, me daría mas confianza
+
+![](assets/img/testing2.jpeg)
+
+## Conclusiones
+
+El objetivo era poder conectar a las víctimas con los profesionales, cuidando la integridad y el anonimato de las mujeres, ya que inicialmente a muchas les cuesta identificarse por temor a represalias. Lo que intenta **Lazos de Ayuda** es no sólo ser un puente de apoyo a las mujeres víctimas de violencia si no también ser una herramienta eficiente para el Estado y ONGs involucradas.
